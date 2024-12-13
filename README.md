@@ -31,10 +31,11 @@ This project demonstrates the implementation of a K-Nearest Neighbors (KNN) algo
 - **Iris Dataset**:
   - Optimal `k`: 13
   - Accuracy: 100%
-
+![Iris: Accuracy vs k](iris.png)
 - **Breast Cancer Dataset**:
   - Optimal `k`: [3,56]
   - Accuracy: 98.55%
+![Breast Cancer: Accuracy vs k](breastcancer.png)
 ## Made By-
 **Yash Kumar**
 - [**GitHub**](https://github.com/yashk1690)
