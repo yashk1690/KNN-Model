@@ -2,7 +2,7 @@
 # K-Nearest Neighbors (KNN) Model
 
 This project demonstrates the implementation of a K-Nearest Neighbors (KNN) algorithm. The goal is to predict the optimal value of `k` for various datasets.
-
+![knn](images/knn.png)
 ## Objectives
 1. Implement a KNN model from scratch.
 2. Use the `sklearn` KNN model to predict and validate optimal values of `k`.
@@ -31,11 +31,11 @@ This project demonstrates the implementation of a K-Nearest Neighbors (KNN) algo
 - **Iris Dataset**:
   - Optimal `k`: 13
   - Accuracy: 100%
-![Iris: Accuracy vs k](iris.png)
+![Iris: Accuracy vs k](images/iris.png)
 - **Breast Cancer Dataset**:
   - Optimal `k`: [3,56]
   - Accuracy: 98.55%
-![Breast Cancer: Accuracy vs k](breastcancer.png)
+![Breast Cancer: Accuracy vs k](images/breastcancer.png)
 ## Made By-
 **Yash Kumar**
 - [**GitHub**](https://github.com/yashk1690)
